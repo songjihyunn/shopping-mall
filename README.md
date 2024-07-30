@@ -1,4 +1,4 @@
-# 주식, 경제 관련 커뮤니티
+# 쇼핑몰 홈페이지
 
 ## 목차
 
@@ -41,4 +41,4 @@
 
 
 ## 기술 아키텍처
-
+![2번째 프로젝트 기술 아키텍처](https://github.com/user-attachments/assets/7ada8fff-faff-4cba-b159-745b786939ce)
